@@ -1,0 +1,375 @@
+{
+  "versao": "29 de outubro de 2026",
+  "contato": "matheus@orlandomarketingbranding.com.br",
+  "ofertas": [
+    {
+      "num": "01",
+      "slug": "posicionamento",
+      "titulo": "Posicionamento e proposta de valor",
+      "subtitulo": "Por que o cliente escolheria sua empresa?",
+      "formato": "Workshop",
+      "duracao": "4 horas",
+      "minutos": 240,
+      "publico": "Proprietários, gestores e profissionais de marketing de pequenos negócios, especialmente empresas de serviços.",
+      "desafio": "Quando a empresa tenta atender todo mundo, a comunicação fica genérica. O cliente compara preço sem compreender escopo, especialidade ou diferença relevante.",
+      "objetivo": "Construir uma hipótese de posicionamento e traduzi-la em uma mensagem comercial clara, apoiada nas evidências que o negócio consegue sustentar.",
+      "competencias": [
+        "Delimitar público prioritário e situação de compra.",
+        "Comparar a oferta com alternativas reais, inclusive fazer internamente ou adiar.",
+        "Distinguir atributo, benefício e prova.",
+        "Reescrever a mensagem e definir um teste de aplicação."
+      ],
+      "conteudo": [
+        "Público, usuário, influenciador e decisor: quem precisa compreender a oferta.",
+        "Contexto de compra, problema, alternativas e critérios de escolha.",
+        "Diferenciais verificáveis e coerência entre promessa e experiência.",
+        "Proposta de valor e mensagem para site, apresentação, proposta ou atendimento.",
+        "Teste de compreensão, registro de objeções e plano de validação inicial."
+      ],
+      "metodologia": "Exposições curtas alternadas com aplicação no negócio do participante. Um caso fictício abre o raciocínio; matrizes individuais, troca em pares e devolutivas orientadas ajudam a revisar decisões. O foco é clareza e coerência, não preferência estética.",
+      "aplicacao": "Cada participante escreve a mensagem atual, escolhe um público e relaciona duas promessas às suas provas. Um colega lê a nova mensagem sem explicação adicional e descreve o que entendeu. O autor revisa a ambiguidade e escolhe onde testar.",
+      "entregaveis": [
+        "Mapa de público e contexto de compra.",
+        "Matriz de alternativas, benefícios e evidências.",
+        "Primeira versão da proposta de valor e mensagem comercial revisada.",
+        "Experimento de 30 dias com responsável, sinal observado e data de revisão."
+      ],
+      "preparacao": "Trazer uma oferta real ou ideia suficientemente delimitada e um exemplo de comunicação atual. Não exige conhecimento prévio de branding ou licença de software.",
+      "limites": "A entrega é uma hipótese estruturada para teste. Não inclui pesquisa representativa, criação de identidade visual, registro de marca ou validação definitiva de mercado.",
+      "avaliacao": "O material é revisado por cinco critérios: público específico, benefício compreensível, prova existente, mensagem clara e teste executável.",
+      "fundamentacao": "A lógica de segmentação, escolha de público e posicionamento orienta a decisão de quem atender e por que ser escolhido. A proposta de valor aproxima problema, benefício e evidência; não se resume a slogan.",
+      "agenda": [
+        {
+          "atividade": "Abertura e diagnóstico",
+          "minutos": 15
+        },
+        {
+          "atividade": "Público e situação de compra",
+          "minutos": 30
+        },
+        {
+          "atividade": "Alternativas e critérios",
+          "minutos": 35
+        },
+        {
+          "atividade": "Diferenciais, benefícios e provas",
+          "minutos": 35
+        },
+        {
+          "atividade": "Intervalo",
+          "minutos": 15
+        },
+        {
+          "atividade": "Proposta de valor e mensagem",
+          "minutos": 40
+        },
+        {
+          "atividade": "Teste em pares e revisão",
+          "minutos": 35
+        },
+        {
+          "atividade": "Experimento de 30 dias",
+          "minutos": 25
+        },
+        {
+          "atividade": "Avaliação e fechamento",
+          "minutos": 10
+        }
+      ],
+      "pagina": "treinamentos/posicionamento.html"
+    },
+    {
+      "num": "02",
+      "slug": "marketing-comercial",
+      "titulo": "Marketing e comercial integrados",
+      "subtitulo": "Do primeiro contato à próxima decisão.",
+      "formato": "Treinamento com workshop",
+      "duracao": "4 horas",
+      "minutos": 240,
+      "publico": "Empresários e equipes enxutas de marketing, atendimento e vendas. É útil ter na turma alguém que conheça o processo comercial real.",
+      "desafio": "Contatos chegam, mas se perdem entre áreas, planilhas e conversas. Sem critério de avanço e próximo passo, o funil passa a mostrar opiniões em vez de oportunidades acompanhadas.",
+      "objetivo": "Desenhar um processo mínimo para registrar, qualificar e acompanhar oportunidades, com critérios claros e responsabilidades compartilhadas.",
+      "competencias": [
+        "Diferenciar contato, interesse e oportunidade.",
+        "Definir entrada e saída das etapas do funil.",
+        "Registrar responsável, próximo passo e prazo.",
+        "Escolher indicadores e organizar uma rotina de revisão."
+      ],
+      "conteudo": [
+        "Jornada do cliente e funil da empresa: duas perspectivas complementares.",
+        "Qualificação, aderência da oferta e contexto de decisão.",
+        "Passagem entre marketing e comercial com informação útil.",
+        "Registro mínimo, acompanhamento, motivos de perda e encerramento.",
+        "Indicadores com período e denominador; reunião de revisão e acordos de atendimento."
+      ],
+      "metodologia": "Mapeamento do processo existente, simulação de atendimento e construção de instrumentos simples. Os participantes trabalham com papel ou planilha; o método independe de uma marca de CRM.",
+      "aplicacao": "A turma recebe contatos fictícios com necessidades diferentes. Decide quais são oportunidades, define a etapa, registra o que falta saber e faz uma passagem de atendimento para outro participante. A dupla verifica se consegue agir sem pedir toda a informação novamente.",
+      "entregaveis": [
+        "Funil mínimo com critérios de entrada e avanço.",
+        "Ficha de oportunidade com responsável, próxima ação e data.",
+        "Acordo inicial de passagem entre marketing e comercial.",
+        "Indicadores prioritários e pauta de acompanhamento por 30 dias."
+      ],
+      "preparacao": "Ter uma oferta existente e algum histórico de contatos ou vendas. Podem ser usados exemplos anonimizados ou casos fictícios. Não exige CRM instalado.",
+      "limites": "Não inclui implantação, migração, integração ou automação de CRM; gestão de campanhas; atendimento de leads; nem promessa de aumento de vendas.",
+      "avaliacao": "A revisão verifica se as etapas são distintas, se o registro permite continuidade e se os indicadores podem ser calculados com os dados disponíveis.",
+      "fundamentacao": "Jornada e funil são instrumentos diferentes: a primeira considera o caminho do cliente; o segundo organiza o acompanhamento da empresa. A integração exige critérios compartilhados, devolutiva e dados utilizáveis.",
+      "agenda": [
+        {
+          "atividade": "Diagnóstico de perdas no atendimento",
+          "minutos": 15
+        },
+        {
+          "atividade": "Jornada, contato e oportunidade",
+          "minutos": 30
+        },
+        {
+          "atividade": "Funil com critérios verificáveis",
+          "minutos": 40
+        },
+        {
+          "atividade": "Qualificação e passagem entre áreas",
+          "minutos": 30
+        },
+        {
+          "atividade": "Intervalo",
+          "minutos": 15
+        },
+        {
+          "atividade": "Registro e simulação",
+          "minutos": 40
+        },
+        {
+          "atividade": "Indicadores e leitura de caso",
+          "minutos": 30
+        },
+        {
+          "atividade": "Rotina e plano de 30 dias",
+          "minutos": 30
+        },
+        {
+          "atividade": "Avaliação e fechamento",
+          "minutos": 10
+        }
+      ],
+      "pagina": "treinamentos/marketing-comercial.html"
+    },
+    {
+      "num": "03",
+      "slug": "plano-2027",
+      "titulo": "Plano de marketing 2027",
+      "subtitulo": "Prioridades, orçamento e execução para uma equipe pequena.",
+      "formato": "Workshop",
+      "duracao": "4 horas",
+      "minutos": 240,
+      "publico": "Donos, gestores e responsáveis por marketing ou operação comercial de pequenos negócios que precisam transformar intenção em prioridades executáveis.",
+      "desafio": "Listas de ações e calendários de posts não resolvem a falta de direção. Sem orçamento, responsáveis e critérios de decisão, o planejamento perde conexão com a capacidade da empresa.",
+      "objetivo": "Construir uma primeira versão do plano dos próximos 90 dias, conectada à direção de 2027 e aos recursos disponíveis.",
+      "competencias": [
+        "Separar evidência, hipótese e informação ausente.",
+        "Converter um problema em objetivo verificável.",
+        "Escolher até três prioridades e estimar verba e horas.",
+        "Definir responsabilidades e revisar criticamente sugestões de IA."
+      ],
+      "conteudo": [
+        "Diagnóstico de 2026: realizado separado da previsão de fechamento.",
+        "Direção anual e objetivo do trimestre; linha de base e indicadores.",
+        "Priorização por impacto esperado, evidência, esforço e dependências.",
+        "Orçamento: produção, mídia, ferramentas, tempo interno e contingência.",
+        "Governança do marketing: quem executa, decide, consulta e acompanha.",
+        "IA como apoio à análise e revisão, com fontes e decisão humana."
+      ],
+      "metodologia": "Oficina de planejamento com decisões em sequência. O participante usa dados agregados do negócio ou caso fictício. Exercícios de cenário, revisão em pares e uma análise crítica de IA transformam o conteúdo em plano inicial.",
+      "aplicacao": "Cada negócio seleciona até três prioridades, distribui recursos e define entregas, responsáveis e prazos. Em seguida, testa um cenário de orçamento reduzido e revisa uma sugestão de IA, identificando promessas sem evidência e ações incompatíveis com a capacidade.",
+      "entregaveis": [
+        "Diagnóstico resumido e objetivo para o trimestre.",
+        "Quadro de até três prioridades e decisões de exclusão.",
+        "Orçamento preliminar com premissas e horas internas.",
+        "Plano de 90 dias com responsabilidades, indicadores e ritmo de revisão."
+      ],
+      "preparacao": "Trazer, se disponíveis, dados agregados de vendas, custos de marketing e capacidade da equipe. O exercício de IA pode ser realizado manualmente, sem conta ou ferramenta paga.",
+      "limites": "Não entrega um plano anual validado, estudo financeiro, automação implantada ou acompanhamento por 90 dias. O orçamento é preliminar e precisa de cotações e aprovação da empresa.",
+      "avaliacao": "O plano deve relacionar objetivo, prioridades, recursos e responsáveis. A avaliação considera também a capacidade de questionar informações e recomendações não sustentadas.",
+      "fundamentacao": "Objetivos verificáveis, restrições de recursos e ciclos de revisão sustentam o planejamento. A direção anual se desdobra em um trimestre executável, preservando espaço para aprender e ajustar.",
+      "agenda": [
+        {
+          "atividade": "Contexto e resultado do encontro",
+          "minutos": 15
+        },
+        {
+          "atividade": "Diagnóstico e objetivo",
+          "minutos": 30
+        },
+        {
+          "atividade": "Priorização e capacidade",
+          "minutos": 35
+        },
+        {
+          "atividade": "Orçamento e cenários",
+          "minutos": 35
+        },
+        {
+          "atividade": "Intervalo",
+          "minutos": 15
+        },
+        {
+          "atividade": "Responsabilidades e indicadores",
+          "minutos": 35
+        },
+        {
+          "atividade": "IA para revisar o plano",
+          "minutos": 35
+        },
+        {
+          "atividade": "Consolidação e revisão em pares",
+          "minutos": 30
+        },
+        {
+          "atividade": "Avaliação e compromisso",
+          "minutos": 10
+        }
+      ],
+      "pagina": "treinamentos/plano-2027.html"
+    },
+    {
+      "num": "04",
+      "slug": "palestra-valor",
+      "titulo": "Sua empresa entrega valor. Sua marca consegue mostrar?",
+      "subtitulo": "Uma conversa prática sobre promessa, prova e experiência.",
+      "formato": "Palestra participativa",
+      "duracao": "1 hora",
+      "minutos": 60,
+      "publico": "Empresários, gestores, equipes e públicos de eventos que precisam refletir sobre como o mercado compreende o valor de uma empresa.",
+      "desafio": "Uma boa entrega pode ser apresentada de forma genérica. Ao mesmo tempo, uma comunicação atraente pode prometer o que a operação não consegue cumprir. As duas situações exigem coerência.",
+      "objetivo": "Ajudar cada participante a identificar uma distância entre promessa e experiência e escolher uma melhoria executável em um ponto de contato.",
+      "competencias": [
+        "Distinguir identidade visual, mensagem e experiência.",
+        "Reconhecer uma promessa sem prova.",
+        "Analisar um ponto de contato do negócio.",
+        "Definir uma ação com responsável e prazo."
+      ],
+      "conteudo": [
+        "Como o cliente interpreta sinais de valor antes, durante e depois da compra.",
+        "O papel da marca, da mensagem e da operação na percepção.",
+        "Adjetivos genéricos versus evidências concretas.",
+        "Clareza de oferta em site, bio, proposta e atendimento.",
+        "Uma mudança prioritária para reduzir dúvidas e incoerências."
+      ],
+      "metodologia": "Palestra dialogada com exemplos comentados, perguntas ao público e exercício individual de dez minutos. O participante pode responder em papel, pelo chat ou por formulário, sem obrigatoriedade de celular.",
+      "aplicacao": "Escolher um ponto de contato e responder: para quem ele fala, o que promete, qual prova oferece, que dúvida deixa e o que a operação sustenta. Ao final, registrar uma mudança, um responsável e uma data.",
+      "entregaveis": [
+        "Diagnóstico inicial de um ponto de contato.",
+        "Distinção entre promessa e evidência aplicável ao próprio negócio.",
+        "Uma ação de melhoria com prazo e forma simples de verificação."
+      ],
+      "preparacao": "Sem pré-requisitos. Adequada para abertura de encontros, associações, grupos empresariais e ações internas de sensibilização.",
+      "limites": "É uma palestra com aplicação breve, não um diagnóstico completo da empresa. Questões que exigem análise aprofundada são encaminhadas para trabalho específico.",
+      "avaliacao": "O fechamento verifica se o participante identifica uma evidência observável e uma ação executável. Satisfação e aprendizagem são observadas separadamente.",
+      "fundamentacao": "A percepção de valor é influenciada por mensagem, evidência e experiência. A proposta liga o que a empresa diz ao que o cliente consegue observar, evitando tratar identidade visual como solução isolada.",
+      "agenda": [
+        {
+          "atividade": "Pergunta inicial e tese",
+          "minutos": 5
+        },
+        {
+          "atividade": "Como o cliente interpreta valor",
+          "minutos": 10
+        },
+        {
+          "atividade": "Caso fictício comentado",
+          "minutos": 12
+        },
+        {
+          "atividade": "Diagnóstico individual",
+          "minutos": 10
+        },
+        {
+          "atividade": "Promessa em evidência",
+          "minutos": 10
+        },
+        {
+          "atividade": "Perguntas do público",
+          "minutos": 8
+        },
+        {
+          "atividade": "Ação e fechamento",
+          "minutos": 5
+        }
+      ],
+      "pagina": "treinamentos/palestra-valor.html"
+    },
+    {
+      "num": "05",
+      "slug": "consultoria",
+      "titulo": "Diagnóstico e plano de marketing",
+      "subtitulo": "Direção de marca e marketing para um negócio real.",
+      "formato": "Consultoria empresarial",
+      "duracao": "12 horas",
+      "minutos": 720,
+      "publico": "Pequenos negócios com uma oferta principal e um público a priorizar, que precisam organizar posicionamento e marketing antes de ampliar a execução.",
+      "desafio": "Quando as decisões estão dispersas, contratar mais ações pode apenas ampliar o retrabalho. A empresa precisa entender o cenário, escolher prioridades e alinhar a execução à capacidade.",
+      "objetivo": "Organizar o diagnóstico, definir um posicionamento inicial e construir um plano de 90 dias com decisões, recursos e responsabilidades.",
+      "competencias": [
+        "Sintetizar fatos, hipóteses e lacunas do cenário.",
+        "Definir público, benefício e evidências da oferta principal.",
+        "Estabelecer até três prioridades de marketing.",
+        "Transferir o plano e os critérios de acompanhamento para a equipe."
+      ],
+      "conteudo": [
+        "Leitura orientada de até cinco materiais autorizados da empresa.",
+        "Entrevista de diagnóstico com até três representantes no mesmo encontro.",
+        "Público prioritário, alternativas, proposta de valor e mensagens.",
+        "Plano de ação de 90 dias, orçamento preliminar e governança.",
+        "Apresentação final e uma rodada consolidada de ajustes dentro do escopo."
+      ],
+      "metodologia": "Quatro encontros de 1h30, intercalados com seis horas de análise e elaboração técnica. Calendário sugerido de três a quatro semanas, condicionado ao envio de informações e à agenda da empresa.",
+      "aplicacao": "As escolhas são discutidas com o empresário e testadas contra os materiais disponíveis. Cada prioridade precisa responder a um problema identificado, ter responsável, prazo, recurso estimado e critério de aceite.",
+      "entregaveis": [
+        "Síntese diagnóstica de até cinco páginas.",
+        "Uma página de posicionamento e até três mensagens prioritárias.",
+        "Plano de 90 dias com até três prioridades.",
+        "Orçamento por categoria, premissas, indicadores e rotina de revisão.",
+        "Apresentação de devolutiva e arquivos finais em PDF e formato editável."
+      ],
+      "preparacao": "Disponibilizar os materiais acordados, dados agregados pertinentes e um interlocutor responsável por validar informações e consolidar decisões.",
+      "limites": "Não inclui pesquisa representativa, identidade visual, produção contínua de conteúdo, campanhas, site, registro de marca, implantação de CRM ou execução das ações. Escopos adicionais são contratados separadamente.",
+      "avaliacao": "O aceite considera coerência e completude das entregas acordadas, distinção entre fatos e hipóteses, responsabilidades e premissas registradas; não depende de promessa de faturamento.",
+      "fundamentacao": "O diagnóstico precede a escolha de ações. O trabalho combina análise de posicionamento, coerência da comunicação e planejamento, distinguindo o que está demonstrado do que ainda depende de validação.",
+      "agenda": [
+        {
+          "atividade": "Preparação e leitura técnica",
+          "minutos": 60
+        },
+        {
+          "atividade": "Encontro 1: diagnóstico",
+          "minutos": 90
+        },
+        {
+          "atividade": "Análise de oferta e comunicação",
+          "minutos": 120
+        },
+        {
+          "atividade": "Encontro 2: posicionamento",
+          "minutos": 90
+        },
+        {
+          "atividade": "Elaboração técnica do plano",
+          "minutos": 120
+        },
+        {
+          "atividade": "Encontro 3: plano e responsabilidades",
+          "minutos": 90
+        },
+        {
+          "atividade": "Ajustes técnicos consolidados",
+          "minutos": 60
+        },
+        {
+          "atividade": "Encontro 4: entrega e próximos passos",
+          "minutos": 90
+        }
+      ],
+      "pagina": "consultoria.html"
+    }
+  ]
+}
