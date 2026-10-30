@@ -198,3 +198,21 @@ ol.ideas li{break-inside:avoid;display:grid;grid-template-columns:38px 1fr;margi
 .dark .steps li:before{color:var(--aqua)}
 
 body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:60;background:#fff}
+/* podcast: teaser (clique para carregar) e player do Spotify */
+.video{position:relative}
+.yt{position:relative;display:block;aspect-ratio:16/9;background:var(--pet);overflow:hidden}
+.yt img{width:100%;height:100%;object-fit:cover;transition:transform .4s}
+.yt:hover img{transform:scale(1.02)}
+.yt .play{position:absolute;left:50%;top:50%;width:84px;height:84px;margin:-42px 0 0 -42px;border-radius:50%;background:rgba(7,26,31,.82);color:#fff;display:flex;align-items:center;justify-content:center;border:2px solid rgba(255,255,255,.85);transition:background .2s}
+.yt:hover .play,.yt:focus-visible .play{background:var(--pet)}
+.yt .play svg{width:36px;height:36px;margin-left:4px}
+.video iframe{display:block;width:100%;aspect-ratio:16/9;height:auto;border:0}
+.embed iframe{display:block;border:0;border-radius:12px;background:var(--off)}
+.embed-fb{margin-top:12px}
+.pod-send{border-left:2px solid rgba(242,240,234,.35);padding-left:28px}
+.pod-send .l li{color:var(--onD)}
+.pod-ct{margin-top:22px;font-size:16px;color:var(--onDm)}
+.pod-ct a{color:#F2F0EA;font-weight:600}
+@media (max-width:860px){.pod-send{border-left:0;padding-left:0;border-top:1px solid rgba(242,240,234,.3);padding-top:28px}.yt .play{width:68px;height:68px;margin:-34px 0 0 -34px}}
+.cta ul.l li:before{background:var(--aqua)}
+.c4 .block h3{font-size:clamp(17px,1.4vw,20px);letter-spacing:-.01em;hyphens:auto;-webkit-hyphens:auto;overflow-wrap:normal}

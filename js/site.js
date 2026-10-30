@@ -1,0 +1,4 @@
+(function(){var b=document.querySelector('.menu-btn'),n=document.getElementById('nav');if(!b||!n)return;
+b.addEventListener('click',function(){var o=n.classList.toggle('open');b.setAttribute('aria-expanded',o);b.textContent=o?'Fechar':'Menu'});
+document.addEventListener('keydown',function(e){if(e.key==='Escape'&&n.classList.contains('open')){n.classList.remove('open');b.setAttribute('aria-expanded','false');b.textContent='Menu';b.focus()}});})();
+(function(){document.querySelectorAll('a.yt[data-yt]').forEach(function(a){a.addEventListener('click',function(e){e.preventDefault();var f=document.createElement('iframe');f.src='https://www.youtube-nocookie.com/embed/'+a.getAttribute('data-yt')+'?autoplay=1&rel=0';f.title='Teaser de Decisões que Marcam';f.allow='autoplay; encrypted-media; picture-in-picture; fullscreen';f.allowFullscreen=true;a.replaceWith(f);f.focus()})})})();
